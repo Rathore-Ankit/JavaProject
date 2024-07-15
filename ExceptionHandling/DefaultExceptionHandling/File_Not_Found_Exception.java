@@ -17,7 +17,8 @@ catch (FileNotFoundException   f)
 }
 catch (IOException f)
 {
-//here we will handle the checked exception using try catch
+//here we will handle the checked exception using try
+    System.out.println("now this code push on git hub");
 }
 
 /*NOTE : checked exceptions are exceptions that are checked at compile time. This means that
